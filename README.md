@@ -16,6 +16,7 @@
 #### On Convexity of Neural Networks
 - Convex Neural Networks [[Link]](http://papers.nips.cc/paper/2800-convex-neural-networks.pdf)
 - Breaking the Curse of Dimensionality with Convex Neural Networks [[Link]](http://jmlr.org/papers/volume18/14-546/14-546.pdf)
+- UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION [[Link]](https://arxiv.org/pdf/1611.03530.pdf)
 - Optimal Control Via Neural Networks: A Convex Approach. [[Link]](https://openreview.net/forum?id=H1MW72AcK7)
 - A New Concept of Convex based Multiple Neural Networks Structure. [[Link](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1306.pdf)
 - SGD Converges to Global Minimum in Deep Learning via Star-convex Path [[Link]](https://arxiv.org/abs/1901.00451)
