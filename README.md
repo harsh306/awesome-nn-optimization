@@ -20,7 +20,13 @@
 - Optimal Control Via Neural Networks: A Convex Approach. [[Link]](https://openreview.net/forum?id=H1MW72AcK7)
 - A New Concept of Convex based Multiple Neural Networks Structure. [[Link](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1306.pdf)
 - SGD Converges to Global Minimum in Deep Learning via Star-convex Path [[Link]](https://arxiv.org/abs/1901.00451)
-- Parameter Continuation with Secant Approximation for Deep Neural Networks [[Thesis]](https://digitalcommons.wpi.edu/etd-theses/1256/)
+
+#### Solving simpler problem first
+- Curriculum Learning [[Link]](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
+- Noisy Activation Function [[Link]](http://proceedings.mlr.press/v48/gulcehre16.pdf)
+- Mollifying Networks [[Link]](https://arxiv.org/abs/1608.04980)
+- Parameter Continuation with Secant Approximation for Deep Neural Networks and Step-up GAN [[Thesis]](https://digitalcommons.wpi.edu/etd-theses/1256/)
+- HashNet: Deep Learning to Hash by Continuation [[Link]](https://arxiv.org/abs/1702.00758)
 
 #### On Loss Surfaces of Deep Neural Networks
 - QUALITATIVELY CHARACTERIZING NEURAL NETWORK OPTIMIZATION PROBLEMS[[Link]](https://arxiv.org/pdf/1412.6544.pdf)
@@ -31,4 +37,4 @@
 #### Tutorials
 - An overview of gradient descent optimization algorithms [[Link]](https://arxiv.org/pdf/1609.04747.pdf)
 - Why Momentum really works?[[Link]](https://distill.pub/2017/momentum/)
-- Optimization ([[Book]](https://www.deeplearningbook.org/contents/optimization.html))
+- Optimization [[Book]](https://www.deeplearningbook.org/contents/optimization.html))
