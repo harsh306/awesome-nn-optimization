@@ -20,7 +20,6 @@
 - A New Concept of Convex based Multiple Neural Networks Structure. [[Link](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1306.pdf)
 - SGD Converges to Global Minimum in Deep Learning via Star-convex Path [[Link]](https://arxiv.org/abs/1901.00451)
 - Parameter Continuation with Secant Approximation for Deep Neural Networks [[Thesis]](https://digitalcommons.wpi.edu/etd-theses/1256/)
-- 
 
 #### On Loss Surfaces of Deep Neural Networks
 - QUALITATIVELY CHARACTERIZING NEURAL NETWORK OPTIMIZATION PROBLEMS[[Link]](https://arxiv.org/pdf/1412.6544.pdf)
