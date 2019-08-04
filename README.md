@@ -1,3 +1,4 @@
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 ## Content (Working on it!)
 
 #### Popular Optimization algorithms
