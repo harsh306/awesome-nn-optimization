@@ -2,7 +2,7 @@
 
 #### Popular Optimization algorithms
 - SGD [[Book]](https://www.deeplearningbook.org/contents/optimization.html)
-- Momentun [[Book]](https://www.deeplearningbook.org/contents/optimization.html)
+- Momentum [[Book]](https://www.deeplearningbook.org/contents/optimization.html)
 - RMSProp [[Book]](https://www.deeplearningbook.org/contents/optimization.html)
 - AdaGrad [[Link]](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
 - ADAM [[Link]](https://arxiv.org/abs/1412.6980)
