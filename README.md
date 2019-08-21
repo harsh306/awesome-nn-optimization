@@ -37,7 +37,6 @@
 - The Loss Surface Of Deep Linear Networks Viewed Through The Algebraic Geometry Lens [[Link]](https://arxiv.org/pdf/1810.07716.pdf)
 - How regularization affects the critical points in linear
 networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-the-critical-points-in-linear-networks.pdf)
-- Understanding deep learning requires rethinking generalization. [[Link]](https://openreview.net/forum?id=Sy8gdB9xx)
 
 #### Tutorials
 - An overview of gradient descent optimization algorithms [[Link]](https://arxiv.org/pdf/1609.04747.pdf)
