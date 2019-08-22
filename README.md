@@ -39,7 +39,8 @@
 networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-the-critical-points-in-linear-networks.pdf)
 - Local minima in training of neural networks [[Link]](https://arxiv.org/abs/1611.06310)
 
-#### Tutorials
+#### Tutorials and Blogs
+- https://www.offconvex.org/ 
 - An overview of gradient descent optimization algorithms [[Link]](https://arxiv.org/pdf/1609.04747.pdf)
 - Why Momentum really works?[[Link]](https://distill.pub/2017/momentum/)
 - Optimization [[Book]](https://www.deeplearningbook.org/contents/optimization.html))
