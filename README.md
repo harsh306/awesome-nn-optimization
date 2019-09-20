@@ -1,4 +1,4 @@
-## Content (In progress!)
+## Content
 
 #### Popular Optimization algorithms
 - SGD [[Book]](https://www.deeplearningbook.org/contents/optimization.html)
@@ -38,6 +38,16 @@
 - How regularization affects the critical points in linear
 networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-the-critical-points-in-linear-networks.pdf)
 - Local minima in training of neural networks [[Link]](https://arxiv.org/abs/1611.06310)
+
+#### Bifurcations and RNNs difficulty to train
+- On the difficulty of training recurrent neural networks [[Link]](http://proceedings.mlr.press/v28/pascanu13.pdf)
+- Understanding and Controlling Memory in Recurrent Neural Networks [[Link]](https://arxiv.org/pdf/1902.07275.pdf)
+- Dynamics and Bifurcation of Neural Networks [[Link]](https://pdfs.semanticscholar.org/a413/4a36fef5ef55d0ff7dae029d6b8f55140cf7.pdf)
+- Context Aware Machine Learning [[Link]](https://arxiv.org/pdf/1901.03415.pdf)
+- The trade-off between long-term memory and smoothness for recurrent networks [[Link]](https://arxiv.org/pdf/1906.08482.pdf)
+- Dynamical complexity and computation in recurrent neural networks beyond their fxed point [[Link]](https://www.nature.com/articles/s41598-018-21624-2.pdf)
+- Bifurcations in discrete-time neural networks : controlling complex network behaviour with inputs [[Links]](https://pub.uni-bielefeld.de/record/2302580)
+- Interpreting Recurrent Neural Networks Behaviour via Excitable Network Attractors [[Link]](https://link.springer.com/article/10.1007/s12559-019-09634-2#Sec11)
 
 #### Tutorials and Blogs
 - https://www.offconvex.org/ 
