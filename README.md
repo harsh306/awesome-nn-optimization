@@ -40,6 +40,7 @@ networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-th
 - Local minima in training of neural networks [[Link]](https://arxiv.org/abs/1611.06310)
 
 #### Bifurcations and RNNs difficulty to train
+-  Bifurcations of Recurrent Neural Networks in Gradient Descent Learning [[Link]](https://pdfs.semanticscholar.org/b579/27b713a6f9b73c7941f99144165396483478.pdf)
 - On the difficulty of training recurrent neural networks [[Link]](http://proceedings.mlr.press/v28/pascanu13.pdf)
 - Understanding and Controlling Memory in Recurrent Neural Networks [[Link]](https://arxiv.org/pdf/1902.07275.pdf)
 - Dynamics and Bifurcation of Neural Networks [[Link]](https://pdfs.semanticscholar.org/a413/4a36fef5ef55d0ff7dae029d6b8f55140cf7.pdf)
