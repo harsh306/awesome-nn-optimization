@@ -22,7 +22,7 @@
 - A New Concept of Convex based Multiple Neural Networks Structure. [[Link](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1306.pdf)
 - SGD Converges to Global Minimum in Deep Learning via Star-convex Path [[Link]](https://arxiv.org/abs/1901.00451)
 
-#### Solving simpler problem first (or Activations)
+#### Solving simpler problem first
 - Curriculum Learning [[Link]](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
 - Noisy Activation Function [[Link]](http://proceedings.mlr.press/v48/gulcehre16.pdf)
 - Mollifying Networks [[Link]](https://arxiv.org/abs/1608.04980)
