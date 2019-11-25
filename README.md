@@ -27,7 +27,7 @@
 - Noisy Activation Function [[Link]](http://proceedings.mlr.press/v48/gulcehre16.pdf)
 - Mollifying Networks [[Link]](https://arxiv.org/abs/1608.04980)
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks [Link](https://arxiv.org/pdf/1802.03796.pdf)
-- Parameter Continuation with Secant Approximation for Deep Neural Networks and Step-up GAN [[Thesis]](https://digitalcommons.wpi.edu/etd-theses/1256/)
+- Parameter Continuation with Secant Approximation for Deep Neural Networks and Step-up GAN [Link](https://digitalcommons.wpi.edu/etd-theses/1256/)
 - HashNet: Deep Learning to Hash by Continuation. [[Link]](https://arxiv.org/abs/1702.00758)
 - Learning Combinations of Activation Functions. [[Link]](https://arxiv.org/pdf/1801.09403.pdf)
 - Learning and development in neural networks: The importance of starting small (1993) [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.4487&rep=rep1&type=pdf)
