@@ -29,6 +29,8 @@
 - Mollifying Networks [[Link]](https://arxiv.org/abs/1608.04980)
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks [Link](https://arxiv.org/pdf/1802.03796.pdf)
 - Automated Curriculum Learning for Neural Networks [Link](http://proceedings.mlr.press/v70/graves17a/graves17a.pdf)
+- On The Power of Curriculum Learning in Training Deep Networks [Link](https://arxiv.org/pdf/1904.03626.pdf)
+- On-line Adaptative Curriculum Learning for GANs [Link](https://arxiv.org/abs/1808.00020)
 - Parameter Continuation with Secant Approximation for Deep Neural Networks and Step-up GAN [Link](https://digitalcommons.wpi.edu/etd-theses/1256/)
 - HashNet: Deep Learning to Hash by Continuation. [[Link]](https://arxiv.org/abs/1702.00758)
 - Learning Combinations of Activation Functions. [[Link]](https://arxiv.org/pdf/1801.09403.pdf)
