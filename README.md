@@ -24,6 +24,7 @@
 
 #### Solving simpler problem first
 - Curriculum Learning [[Link]](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
+- SOLVING RUBIK’S CUBE WITH A ROBOT HAND [Link](https://arxiv.org/pdf/1910.07113.pdf)
 - Noisy Activation Function [[Link]](http://proceedings.mlr.press/v48/gulcehre16.pdf)
 - Mollifying Networks [[Link]](https://arxiv.org/abs/1608.04980)
 - Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks [Link](https://arxiv.org/pdf/1802.03796.pdf)
