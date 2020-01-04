@@ -62,6 +62,9 @@ networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-th
 - An overview of gradient descent optimization algorithms [[Link]](https://arxiv.org/pdf/1609.04747.pdf)
 - Why Momentum really works?[[Link]](https://distill.pub/2017/momentum/)
 - Optimization [[Book]](https://www.deeplearningbook.org/contents/optimization.html))
+- Optimization for deep learning: theory and algorithms [Link](https://arxiv.org/pdf/1912.08957.pdf)
+- Generalization Error in Deep Learning [Link](https://arxiv.org/pdf/1808.01174.pdf)
+- Automatic Differentiation in Machine Learning: a Survey [Link](https://arxiv.org/pdf/1502.05767.pdf)
 
 #### Contributing
 If you've found any informative resources that you think belong here, be sure to submit a pull request or create an issue! 
