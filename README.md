@@ -62,6 +62,7 @@ networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-th
 - Dynamical complexity and computation in recurrent neural networks beyond their fxed point [[Link]](https://www.nature.com/articles/s41598-018-21624-2.pdf)
 - Bifurcations in discrete-time neural networks : controlling complex network behaviour with inputs [[Links]](https://pub.uni-bielefeld.de/record/2302580)
 - Interpreting Recurrent Neural Networks Behaviour via Excitable Network Attractors [[Link]](https://link.springer.com/article/10.1007/s12559-019-09634-2#Sec11)
+- Bifurcation analysis of a neural network model [Link](https://link.springer.com/article/10.1007/BF00203668)
 
 #### Tutorials, Surveys and Blogs
 - https://www.offconvex.org/ 
