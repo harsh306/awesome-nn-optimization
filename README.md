@@ -7,11 +7,14 @@
 - AdaGrad [[Link]](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
 - ADAM [[Link]](https://arxiv.org/abs/1412.6980)
 - AdaBound [[Link]](https://arxiv.org/abs/1902.09843) [[Github]](https://github.com/Luolc/AdaBound)
+- ADAMAX [[Link]](https://arxiv.org/abs/1412.6980)
+- NADAM [[Link]](https://openreview.net/pdf?id=OM0jvwB8jIp57ZJjtNEZ)
 
 #### Normalization Methods
 - BatchNorm [[Link]](https://arxiv.org/abs/1502.03167)
 - Weight Norm [[Link]](http://papers.nips.cc/paper/6113-weight-normalization-a-simple-reparameterization-to-accelerate-training-of-deep-neural-networks)
 - Spectral Norm [[Link]](https://arxiv.org/abs/1802.05957)
+- Cosine Normalization [[Link]](https://arxiv.org/pdf/1702.05870.pdf)
 
 #### On Convexity and Generalization of Neural Networks
 - Convex Neural Networks [[Link]](http://papers.nips.cc/paper/2800-convex-neural-networks.pdf)
