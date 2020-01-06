@@ -13,7 +13,7 @@
 - Weight Norm [[Link]](http://papers.nips.cc/paper/6113-weight-normalization-a-simple-reparameterization-to-accelerate-training-of-deep-neural-networks)
 - Spectral Norm [[Link]](https://arxiv.org/abs/1802.05957)
 
-#### On Convexity of Neural Networks
+#### On Convexity and Generalization of Neural Networks
 - Convex Neural Networks [[Link]](http://papers.nips.cc/paper/2800-convex-neural-networks.pdf)
 - Breaking the Curse of Dimensionality with Convex Neural Networks [[Link]](http://jmlr.org/papers/volume18/14-546/14-546.pdf)
 - UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION [[Link]](https://arxiv.org/pdf/1611.03530.pdf)
@@ -37,7 +37,7 @@
 - Learning and development in neural networks: The importance of starting small (1993) [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.4487&rep=rep1&type=pdf)
 - Flexible shaping: How learning in small steps helps [Link](https://www.sciencedirect.com/science/article/pii/S0010027708002850)
 
-#### On Loss Surfaces of Deep Neural Networks
+#### On Loss Surfaces and Generalization of Deep Neural Networks
 - QUALITATIVELY CHARACTERIZING NEURAL NETWORK OPTIMIZATION PROBLEMS[[Link]](https://arxiv.org/pdf/1412.6544.pdf)
 - The Loss Surfaces of Multilayer Networks [[Link]](https://arxiv.org/abs/1412.0233)
 - Visualizing the Loss Landscape of Neural Nets [[Link]](https://papers.nips.cc/paper/7875-visualizing-the-loss-landscape-of-neural-nets.pdf)
@@ -45,8 +45,11 @@
 - How regularization affects the critical points in linear
 networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-the-critical-points-in-linear-networks.pdf)
 - Local minima in training of neural networks [[Link]](https://arxiv.org/abs/1611.06310)
+- Necessary and Sufficient Geometries for Gradient Methods [Link](http://papers.nips.cc/paper/9325-necessary-and-sufficient-geometries-for-gradient-methods)
+- Fine-grained Optimization of Deep Neural Networks [Link](http://papers.nips.cc/paper/8425-fine-grained-optimization-of-deep-neural-networks)
 
-#### Bifurcations and RNNs difficulty to train
+#### Dynamics, Bifurcations and  RNNs difficulty to train
+- Deep Equilibrium Models [Link](http://papers.nips.cc/paper/8358-deep-equilibrium-models.pdf)
 -  Bifurcations of Recurrent Neural Networks in Gradient Descent Learning [[Link]](https://pdfs.semanticscholar.org/b579/27b713a6f9b73c7941f99144165396483478.pdf)
 - On the difficulty of training recurrent neural networks [[Link]](http://proceedings.mlr.press/v28/pascanu13.pdf)
 - Understanding and Controlling Memory in Recurrent Neural Networks [[Link]](https://arxiv.org/pdf/1902.07275.pdf)
@@ -57,10 +60,10 @@ networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-th
 - Bifurcations in discrete-time neural networks : controlling complex network behaviour with inputs [[Links]](https://pub.uni-bielefeld.de/record/2302580)
 - Interpreting Recurrent Neural Networks Behaviour via Excitable Network Attractors [[Link]](https://link.springer.com/article/10.1007/s12559-019-09634-2#Sec11)
 
-#### Tutorials and Blogs
+#### Tutorials, Surveys and Blogs
 - https://www.offconvex.org/ 
 - An overview of gradient descent optimization algorithms [[Link]](https://arxiv.org/pdf/1609.04747.pdf)
-- Why Momentum really works?[[Link]](https://distill.pub/2017/momentum/)
+- Why Momentum really works?[[Blog]](https://distill.pub/2017/momentum/)
 - Optimization [[Book]](https://www.deeplearningbook.org/contents/optimization.html))
 - Optimization for deep learning: theory and algorithms [Link](https://arxiv.org/pdf/1912.08957.pdf)
 - Generalization Error in Deep Learning [Link](https://arxiv.org/pdf/1808.01174.pdf)
