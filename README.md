@@ -68,7 +68,7 @@ networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-th
 of nonlinear dynamics [Link](https://arxiv.org/pdf/1712.09707.pdf)
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations [Link](http://www.jmlr.org/papers/volume19/18-046/18-046.pdf)
 
-### Poor Local Minima?
+#### Poor Local Minima?
 - Adding One Neuron Can Eliminate All Bad
 Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-eliminate-all-bad-local-minima.pdf)
 - Deep Learning without Poor Local Minima [Link](https://papers.nips.cc/paper/6112-deep-learning-without-poor-local-minima.pdf)
