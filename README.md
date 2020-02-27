@@ -25,7 +25,7 @@
 - A New Concept of Convex based Multiple Neural Networks Structure. [[Link](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1306.pdf)
 - SGD Converges to Global Minimum in Deep Learning via Star-convex Path [[Link]](https://arxiv.org/abs/1901.00451)
 
-#### Solving simpler problem first
+#### Continuation Methods and Curriculum Learning 
 - Curriculum Learning [[Link]](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
 - SOLVING RUBIK’S CUBE WITH A ROBOT HAND [Link](https://arxiv.org/pdf/1910.07113.pdf)
 - Noisy Activation Function [[Link]](http://proceedings.mlr.press/v48/gulcehre16.pdf)
@@ -39,6 +39,10 @@
 - Learning Combinations of Activation Functions. [[Link]](https://arxiv.org/pdf/1801.09403.pdf)
 - Learning and development in neural networks: The importance of starting small (1993) [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.4487&rep=rep1&type=pdf)
 - Flexible shaping: How learning in small steps helps [Link](https://www.sciencedirect.com/science/article/pii/S0010027708002850)
+- Curriculum Labeling: Self-paced Pseudo-Labeling for Semi-Supervised Learning [Link](https://arxiv.org/pdf/2001.06001.pdf)
+- RETHINKING CURRICULUM LEARNING WITH INCREMENTAL LABELS AND ADAPTIVE COMPENSATION [Link](https://arxiv.org/pdf/2001.04529.pdf)
+- Parameter Continuation Methods for the Optimization of Deep Neural Networks [Link](https://ieeexplore.ieee.org/abstract/document/8999318)
+
 
 #### On Loss Surfaces and Generalization of Deep Neural Networks
 - QUALITATIVELY CHARACTERIZING NEURAL NETWORK OPTIMIZATION PROBLEMS[[Link]](https://arxiv.org/pdf/1412.6544.pdf)
