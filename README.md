@@ -63,6 +63,10 @@ networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-th
 - Bifurcations in discrete-time neural networks : controlling complex network behaviour with inputs [[Links]](https://pub.uni-bielefeld.de/record/2302580)
 - Interpreting Recurrent Neural Networks Behaviour via Excitable Network Attractors [[Link]](https://link.springer.com/article/10.1007/s12559-019-09634-2#Sec11)
 - Bifurcation analysis of a neural network model [Link](https://link.springer.com/article/10.1007/BF00203668)
+- A Differentiable Physics Engine for Deep Learning in Robotics [Link](https://www.frontiersin.org/articles/10.3389/fnbot.2019.00006/full)
+- Deep learning for universal linear embeddings
+of nonlinear dynamics [Link](https://arxiv.org/pdf/1712.09707.pdf)
+- Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations [Link](http://www.jmlr.org/papers/volume19/18-046/18-046.pdf)
 
 ### Poor Local Minima?
 - Adding One Neuron Can Eliminate All Bad
