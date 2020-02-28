@@ -80,6 +80,16 @@ Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-elim
 - How to escape saddle points efficiently. [Link](https://arxiv.org/pdf/1703.00887.pdf)
 - Depth with Nonlinearity Creates No Bad Local Minima in ResNets [Link](https://arxiv.org/abs/1810.09038)
 
+#### Initialization of Neural Network
+- Deep learning course notes [Link](https://www.deeplearning.ai/ai-notes/initialization/)
+- On the importance of initialization and momentum in deep learning [Link](http://proceedings.mlr.press/v28/sutskever13.html)
+- The Break-Even Point on Optimization Trajectories of Deep Neural Networks [Link](https://arxiv.org/abs/2002.09572)
+- THE EARLY PHASE OF NEURAL NETWORK TRAINING [Link](https://research.fb.com/wp-content/uploads/2020/02/The-Early-Phase-of-Neural-Network-Training.pdf?)
+- One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers [Link](http://papers.nips.cc/paper/8739-one-ticket-to-win-them-all-generalizing-lottery-ticket-initializations-across-datasets-and-optimizers.pdf)
+- PCA-Initialized Deep Neural Networks Applied To Document Image Analysis [Link](https://arxiv.org/abs/1702.00177)
+
+
+
 #### Tutorials, Surveys and Blogs
 - https://www.offconvex.org/ 
 - An overview of gradient descent optimization algorithms [[Link]](https://arxiv.org/pdf/1609.04747.pdf)
