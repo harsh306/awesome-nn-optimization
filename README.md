@@ -71,6 +71,8 @@ networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-th
 - Deep learning for universal linear embeddings
 of nonlinear dynamics [Link](https://arxiv.org/pdf/1712.09707.pdf)
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations [Link](http://www.jmlr.org/papers/volume19/18-046/18-046.pdf)
+- Analysis of gradient descent learning algorithms for multilayer feedforward neural networks [Link](https://ieeexplore.ieee.org/abstract/document/203921)
+- A dynamical model for the analysis and acceleration of learning in feedforward networks [Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608001000521)
 
 #### Poor Local Minima?
 - Adding One Neuron Can Eliminate All Bad
