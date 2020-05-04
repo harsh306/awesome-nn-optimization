@@ -90,6 +90,12 @@ Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-elim
 - One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers [Link](http://papers.nips.cc/paper/8739-one-ticket-to-win-them-all-generalizing-lottery-ticket-initializations-across-datasets-and-optimizers.pdf)
 - PCA-Initialized Deep Neural Networks Applied To Document Image Analysis [Link](https://arxiv.org/abs/1702.00177)
 
+#### Multi-Task Learning with curricula
+- Learning the Curriculum with Bayesian Optimization for Task-Specific Word Representation Learning. [Link](https://www.aclweb.org/anthology/P16-1013.pdf)
+- Learning a Multitask Curriculum for Neural Machine Translation. [Link](https://arxiv.org/pdf/1908.10940.pdf)
+- Self-paced Curriculum Learning. [Link](http://www.cs.cmu.edu/~lujiang/camera_ready_papers/AAAI_SPCL_2015.pdf)
+- Curriculum Learning of Multiple Tasks. [Link](http://openaccess.thecvf.com/content_cvpr_2015/papers/Pentina_Curriculum_Learning_of_2015_CVPR_paper.pdf)
+
 
 
 #### Tutorials, Surveys and Blogs
