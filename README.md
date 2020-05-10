@@ -24,6 +24,7 @@
 - Input Convex Neural Networks [[Link]](https://arxiv.org/pdf/1609.07152.pdf)
 - A New Concept of Convex based Multiple Neural Networks Structure. [[Link](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1306.pdf)
 - SGD Converges to Global Minimum in Deep Learning via Star-convex Path [[Link]](https://arxiv.org/abs/1901.00451)
+- A Convergence Theory for Deep Learning via Over-Parameterization [Link](https://arxiv.org/abs/1811.03962)
 
 #### Continuation Methods and Curriculum Learning 
 - Curriculum Learning [[Link]](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
