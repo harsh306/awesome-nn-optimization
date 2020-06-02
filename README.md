@@ -107,6 +107,8 @@ Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-elim
 - Optimization for deep learning: theory and algorithms [Link](https://arxiv.org/pdf/1912.08957.pdf)
 - Generalization Error in Deep Learning [Link](https://arxiv.org/pdf/1808.01174.pdf)
 - Automatic Differentiation in Machine Learning: a Survey [Link](https://arxiv.org/pdf/1502.05767.pdf)
+- Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey [Link](https://arxiv.org/pdf/2003.04960.pdf)
+- Automatic Curriculum Learning For Deep RL: A Short Survey [Link](https://arxiv.org/abs/2003.04664)
 
 #### Contributing
 If you've found any informative resources that you think belong here, be sure to submit a pull request or create an issue! 
