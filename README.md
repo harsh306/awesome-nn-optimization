@@ -43,6 +43,7 @@
 - Curriculum Labeling: Self-paced Pseudo-Labeling for Semi-Supervised Learning [Link](https://arxiv.org/pdf/2001.06001.pdf)
 - RETHINKING CURRICULUM LEARNING WITH INCREMENTAL LABELS AND ADAPTIVE COMPENSATION [Link](https://arxiv.org/pdf/2001.04529.pdf)
 - Parameter Continuation Methods for the Optimization of Deep Neural Networks [Link](https://ieeexplore.ieee.org/abstract/document/8999318)
+- Reinforcement Learning based Curriculum Optimization for Neural Machine Translation [Link](https://www.aclweb.org/anthology/N19-1208.pdf)
 
 
 #### On Loss Surfaces and Generalization of Deep Neural Networks
@@ -103,7 +104,7 @@ Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-elim
 - https://www.offconvex.org/ 
 - An overview of gradient descent optimization algorithms [[Link]](https://arxiv.org/pdf/1609.04747.pdf)
 - Why Momentum really works?[[Blog]](https://distill.pub/2017/momentum/)
-- Optimization [[Book]](https://www.deeplearningbook.org/contents/optimization.html))
+- Optimization [[Book]](https://www.deeplearningbook.org/contents/optimization.html)
 - Optimization for deep learning: theory and algorithms [Link](https://arxiv.org/pdf/1912.08957.pdf)
 - Generalization Error in Deep Learning [Link](https://arxiv.org/pdf/1808.01174.pdf)
 - Automatic Differentiation in Machine Learning: a Survey [Link](https://arxiv.org/pdf/1502.05767.pdf)
