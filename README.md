@@ -31,7 +31,7 @@
 - SOLVING RUBIK’S CUBE WITH A ROBOT HAND [Link](https://arxiv.org/pdf/1910.07113.pdf)
 - Noisy Activation Function [[Link]](http://proceedings.mlr.press/v48/gulcehre16.pdf)
 - Mollifying Networks [[Link]](https://arxiv.org/abs/1608.04980)
-- Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks [Link](https://arxiv.org/pdf/1802.03796.pdf)
+- Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks [Link](https://arxiv.org/pdf/1802.03796.pdf) [Talk](https://vimeo.com/287808087)
 - Automated Curriculum Learning for Neural Networks [Link](http://proceedings.mlr.press/v70/graves17a/graves17a.pdf)
 - On The Power of Curriculum Learning in Training Deep Networks [Link](https://arxiv.org/pdf/1904.03626.pdf)
 - On-line Adaptative Curriculum Learning for GANs [Link](https://arxiv.org/abs/1808.00020)
