@@ -43,6 +43,7 @@
 - Curriculum Labeling: Self-paced Pseudo-Labeling for Semi-Supervised Learning [Link](https://arxiv.org/pdf/2001.06001.pdf)
 - RETHINKING CURRICULUM LEARNING WITH INCREMENTAL LABELS AND ADAPTIVE COMPENSATION [Link](https://arxiv.org/pdf/2001.04529.pdf)
 - Parameter Continuation Methods for the Optimization of Deep Neural Networks [Link](https://ieeexplore.ieee.org/abstract/document/8999318)
+- Denoising Neural Machine Translation Training with Trusted Data and Online Data Selection [Link (https://www.aclweb.org/anthology/W18-6314.pdf)
 - Reinforcement Learning based Curriculum Optimization for Neural Machine Translation [Link](https://www.aclweb.org/anthology/N19-1208.pdf)
 
 
