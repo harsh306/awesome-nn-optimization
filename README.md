@@ -45,6 +45,7 @@
 - Parameter Continuation Methods for the Optimization of Deep Neural Networks [Link](https://ieeexplore.ieee.org/abstract/document/8999318)
 - Denoising Neural Machine Translation Training with Trusted Data and Online Data Selection [Link (https://www.aclweb.org/anthology/W18-6314.pdf)
 - Reinforcement Learning based Curriculum Optimization for Neural Machine Translation [Link](https://www.aclweb.org/anthology/N19-1208.pdf)
+- EVOLUTIONARY POPULATION CURRICULUM FOR SCALING MULTI-AGENT REINFORCEMENT LEARNING [Link](https://openreview.net/pdf?id=SJxbHkrKDH)
 
 
 #### On Loss Surfaces and Generalization of Deep Neural Networks
