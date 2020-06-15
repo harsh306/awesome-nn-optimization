@@ -46,7 +46,7 @@
 - Denoising Neural Machine Translation Training with Trusted Data and Online Data Selection [Link (https://www.aclweb.org/anthology/W18-6314.pdf)
 - Reinforcement Learning based Curriculum Optimization for Neural Machine Translation [Link](https://www.aclweb.org/anthology/N19-1208.pdf)
 - EVOLUTIONARY POPULATION CURRICULUM FOR SCALING MULTI-AGENT REINFORCEMENT LEARNING [Link](https://openreview.net/pdf?id=SJxbHkrKDH)
-
+- ENTROPY-SGD: BIASING GRADIENT DESCENT INTO WIDE VALLEYS [Link](https://arxiv.org/pdf/1611.01838.pdf)
 
 #### On Loss Surfaces and Generalization of Deep Neural Networks
 - QUALITATIVELY CHARACTERIZING NEURAL NETWORK OPTIMIZATION PROBLEMS[[Link]](https://arxiv.org/pdf/1412.6544.pdf)
@@ -77,6 +77,7 @@ of nonlinear dynamics [Link](https://arxiv.org/pdf/1712.09707.pdf)
 - Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations [Link](http://www.jmlr.org/papers/volume19/18-046/18-046.pdf)
 - Analysis of gradient descent learning algorithms for multilayer feedforward neural networks [Link](https://ieeexplore.ieee.org/abstract/document/203921)
 - A dynamical model for the analysis and acceleration of learning in feedforward networks [Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608001000521)
+- A bio-inspired bistable recurrent cell allows for long-lasting memory [Link](https://arxiv.org/abs/2006.05252)
 
 #### Poor Local Minima?
 - Adding One Neuron Can Eliminate All Bad
