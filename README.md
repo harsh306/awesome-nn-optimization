@@ -49,6 +49,7 @@
 - ENTROPY-SGD: BIASING GRADIENT DESCENT INTO WIDE VALLEYS [Link](https://arxiv.org/pdf/1611.01838.pdf)
 
 #### On Loss Surfaces and Generalization of Deep Neural Networks
+- Exact solutions to the nonlinear dynamics of learning in deep linear neural networks [Link](https://arxiv.org/abs/1312.6120)
 - QUALITATIVELY CHARACTERIZING NEURAL NETWORK OPTIMIZATION PROBLEMS[[Link]](https://arxiv.org/pdf/1412.6544.pdf)
 - The Loss Surfaces of Multilayer Networks [[Link]](https://arxiv.org/abs/1412.0233)
 - Visualizing the Loss Landscape of Neural Nets [[Link]](https://papers.nips.cc/paper/7875-visualizing-the-loss-landscape-of-neural-nets.pdf)
