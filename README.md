@@ -15,6 +15,7 @@
 - Weight Norm [[Link]](http://papers.nips.cc/paper/6113-weight-normalization-a-simple-reparameterization-to-accelerate-training-of-deep-neural-networks)
 - Spectral Norm [[Link]](https://arxiv.org/abs/1802.05957)
 - Cosine Normalization [[Link]](https://arxiv.org/pdf/1702.05870.pdf)
+- L2 Regularization versus Batch and Weight Normalization [Link](https://arxiv.org/pdf/1706.05350.pdf) 
 
 #### On Convexity and Generalization of Neural Networks
 - Convex Neural Networks [[Link]](http://papers.nips.cc/paper/2800-convex-neural-networks.pdf)
