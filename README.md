@@ -103,7 +103,8 @@ Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-elim
 - Self-paced Curriculum Learning. [Link](http://www.cs.cmu.edu/~lujiang/camera_ready_papers/AAAI_SPCL_2015.pdf)
 - Curriculum Learning of Multiple Tasks. [Link](http://openaccess.thecvf.com/content_cvpr_2015/papers/Pentina_Curriculum_Learning_of_2015_CVPR_paper.pdf)
 
-
+#### Constrained Optimization for Deep Learning
+- A Primal-Dual Formulation for Deep Learning with Constraints [Link](https://papers.nips.cc/paper/9385-a-primal-dual-formulation-for-deep-learning-with-constraints.pdf)
 
 #### Tutorials, Surveys and Blogs
 - https://www.offconvex.org/ 
