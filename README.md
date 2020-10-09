@@ -60,6 +60,7 @@ networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-th
 - Local minima in training of neural networks [[Link]](https://arxiv.org/abs/1611.06310)
 - Necessary and Sufficient Geometries for Gradient Methods [Link](http://papers.nips.cc/paper/9325-necessary-and-sufficient-geometries-for-gradient-methods)
 - Fine-grained Optimization of Deep Neural Networks [Link](http://papers.nips.cc/paper/8425-fine-grained-optimization-of-deep-neural-networks)
+- SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS [Link](https://openreview.net/pdf?id=PxTIG12RRHS)
 
 #### Dynamics, Bifurcations and  RNNs difficulty to train
 - Deep Equilibrium Models [Link](http://papers.nips.cc/paper/8358-deep-equilibrium-models.pdf)
