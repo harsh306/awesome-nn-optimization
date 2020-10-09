@@ -106,6 +106,12 @@ Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-elim
 #### Constrained Optimization for Deep Learning
 - A Primal-Dual Formulation for Deep Learning with Constraints [Link](https://papers.nips.cc/paper/9385-a-primal-dual-formulation-for-deep-learning-with-constraints.pdf)
 
+### Reinforcement Learning and Curriculum
+- Object-Oriented Curriculum Generation for Reinforcement Learning [Link](http://ifaamas.org/Proceedings/aamas2018/pdfs/p1026.pdf)
+- Teacher-Student Curriculum Learning [Link](https://arxiv.org/abs/1707.00183)
+
+
+
 #### Tutorials, Surveys and Blogs
 - https://www.offconvex.org/ 
 - An overview of gradient descent optimization algorithms [[Link]](https://arxiv.org/pdf/1609.04747.pdf)
