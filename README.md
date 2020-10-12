@@ -48,6 +48,7 @@
 - Reinforcement Learning based Curriculum Optimization for Neural Machine Translation [Link](https://www.aclweb.org/anthology/N19-1208.pdf)
 - EVOLUTIONARY POPULATION CURRICULUM FOR SCALING MULTI-AGENT REINFORCEMENT LEARNING [Link](https://openreview.net/pdf?id=SJxbHkrKDH)
 - ENTROPY-SGD: BIASING GRADIENT DESCENT INTO WIDE VALLEYS [Link](https://arxiv.org/pdf/1611.01838.pdf)
+- NEIGHBOURHOOD DISTILLATION: ON THE BENEFITS OF NON END-TO-END DISTILLATION [Link](https://arxiv.org/abs/2010.01189)
 
 #### On Loss Surfaces and Generalization of Deep Neural Networks
 - Exact solutions to the nonlinear dynamics of learning in deep linear neural networks [Link](https://arxiv.org/abs/1312.6120)
