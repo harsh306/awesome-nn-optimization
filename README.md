@@ -99,6 +99,13 @@ Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-elim
 - One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers [Link](http://papers.nips.cc/paper/8739-one-ticket-to-win-them-all-generalizing-lottery-ticket-initializations-across-datasets-and-optimizers.pdf)
 - PCA-Initialized Deep Neural Networks Applied To Document Image Analysis [Link](https://arxiv.org/abs/1702.00177)
 
+#### Degeneracy of Neural Networks
+- Exact solutions to the nonlinear dynamics of learning in deep linear neural networks [Link](https://arxiv.org/pdf/1312.6120.pdf)
+- Avoiding pathologies in very deep networks [Link](https://arxiv.org/abs/1402.5836)
+- Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice [Link](https://arxiv.org/abs/1711.04735)
+- SKIP CONNECTIONS ELIMINATE SINGULARITIES [Link](https://openreview.net/pdf?id=HkwBEMWCZ)
+- How degenerate is the parametrization of neural networks with the ReLU activation function? [Link](https://arxiv.org/pdf/1905.09803.pdf)
+
 #### Multi-Task Learning with curricula
 - Learning the Curriculum with Bayesian Optimization for Task-Specific Word Representation Learning. [Link](https://www.aclweb.org/anthology/P16-1013.pdf)
 - Learning a Multitask Curriculum for Neural Machine Translation. [Link](https://arxiv.org/pdf/1908.10940.pdf)
