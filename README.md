@@ -105,6 +105,8 @@ Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-elim
 - Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice [Link](https://arxiv.org/abs/1711.04735)
 - SKIP CONNECTIONS ELIMINATE SINGULARITIES [Link](https://openreview.net/pdf?id=HkwBEMWCZ)
 - How degenerate is the parametrization of neural networks with the ReLU activation function? [Link](https://arxiv.org/pdf/1905.09803.pdf)
+- Theory of Deep Learning III: explaining the non-overfitting puzzle [Link](https://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-073v2_0.pdf)
+- Provable Benefit of Orthogonal Initialization in Optimizing Deep Linear Networks [Link](https://openreview.net/forum?id=rkgqN1SYvr)
 
 #### Multi-Task Learning with curricula
 - Learning the Curriculum with Bayesian Optimization for Task-Specific Word Representation Learning. [Link](https://www.aclweb.org/anthology/P16-1013.pdf)
