@@ -138,3 +138,8 @@ Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-elim
 
 #### Contributing
 If you've found any informative resources that you think belong here, be sure to submit a pull request or create an issue! 
+
+##### If you find this helpful, I can enjoy a coffee donation :) 
+
+- [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F02R7JR)
+- Or send me 2-4 dollars on my venmo account [@HARSHNILESH-PATHAK](https://venmo.com/HARSHNILESH-PATHAK)
