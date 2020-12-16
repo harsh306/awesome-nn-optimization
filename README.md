@@ -138,6 +138,7 @@ Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634c
 - Automatic Differentiation in Machine Learning: a Survey [Link](https://arxiv.org/pdf/1502.05767.pdf)
 - Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey [Link](https://arxiv.org/pdf/2003.04960.pdf)
 - Automatic Curriculum Learning For Deep RL: A Short Survey [Link](https://arxiv.org/abs/2003.04664)
+- The Generalization Mystery: Sharp vs Flat Minima [Link](https://www.inference.vc/sharp-vs-flat-minima-are-still-a-mystery-to-me/)
 
 #### Contributing
 If you've found any informative resources that you think belong here, be sure to submit a pull request or create an issue! 
