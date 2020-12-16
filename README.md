@@ -84,13 +84,16 @@ of nonlinear dynamics [Link](https://arxiv.org/pdf/1712.09707.pdf)
 - A dynamical model for the analysis and acceleration of learning in feedforward networks [Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608001000521)
 - A bio-inspired bistable recurrent cell allows for long-lasting memory [Link](https://arxiv.org/abs/2006.05252)
 
-#### Poor Local Minima?
+#### Poor Local Minima? and Sharp Minima
 - Adding One Neuron Can Eliminate All Bad
 Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-eliminate-all-bad-local-minima.pdf)
 - Deep Learning without Poor Local Minima [Link](https://papers.nips.cc/paper/6112-deep-learning-without-poor-local-minima.pdf)
 - Elimination of All Bad Local Minima in Deep Learning [Link](https://arxiv.org/pdf/1901.00279.pdf)
 - How to escape saddle points efficiently. [Link](https://arxiv.org/pdf/1703.00887.pdf)
 - Depth with Nonlinearity Creates No Bad Local Minima in ResNets [Link](https://arxiv.org/abs/1810.09038)
+- Sharp Minima Can Generalize For Deep Nets [Link](https://arxiv.org/pdf/1703.04933.pdf)
+- Asymmetric Valleys: Beyond Sharp and Flat Local
+Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634ccfa0e-Paper.pdf)
 
 #### Initialization of Neural Network
 - Deep learning course notes [Link](https://www.deeplearning.ai/ai-notes/initialization/)
