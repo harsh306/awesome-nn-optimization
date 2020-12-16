@@ -83,6 +83,7 @@ of nonlinear dynamics [Link](https://arxiv.org/pdf/1712.09707.pdf)
 - Analysis of gradient descent learning algorithms for multilayer feedforward neural networks [Link](https://ieeexplore.ieee.org/abstract/document/203921)
 - A dynamical model for the analysis and acceleration of learning in feedforward networks [Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608001000521)
 - A bio-inspired bistable recurrent cell allows for long-lasting memory [Link](https://arxiv.org/abs/2006.05252)
+- Equilibrium Propagation: Bridging the Gap between Energy-Based Models and Backpropagation [Link (https://www.frontiersin.org/articles/10.3389/fncom.2017.00024/full)
 
 #### Poor Local Minima? and Sharp Minima
 - Adding One Neuron Can Eliminate All Bad
