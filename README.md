@@ -95,6 +95,7 @@ Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-elim
 - Sharp Minima Can Generalize For Deep Nets [Link](https://arxiv.org/pdf/1703.04933.pdf)
 - Asymmetric Valleys: Beyond Sharp and Flat Local
 Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634ccfa0e-Paper.pdf)
+- A Reparameterization-Invariant Flatness Measure for Deep Neural Networks [Link](https://arxiv.org/pdf/1912.00058.pdf)
 
 #### Initialization of Neural Network
 - Deep learning course notes [Link](https://www.deeplearning.ai/ai-notes/initialization/)
