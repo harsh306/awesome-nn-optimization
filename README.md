@@ -115,6 +115,11 @@ Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634c
 - Provable Benefit of Orthogonal Initialization in Optimizing Deep Linear Networks [Link](https://openreview.net/forum?id=rkgqN1SYvr)
 - Understanding Deep Learning: Expected Spanning Dimension and Controlling the Flexibility of Neural Networks [Link](https://www.frontiersin.org/articles/10.3389/fams.2020.572539/full)
 
+#### Convergencec Analysis in Deep Learning
+- A CONVERGENCE ANALYSIS OF GRADIENT DESCENT FOR DEEP LINEAR NEURAL NETWORKS [Link](https://openreview.net/pdf?id=SkMQg3C5K7)
+- A Convergence Theory for Deep Learning via Over-Parameterization [Link](http://proceedings.mlr.press/v97/allen-zhu19a/allen-zhu19a.pdf)
+- Convergence Analysis of Homotopy-SGD for Non-Convex Optimization [Link](https://openreview.net/forum?id=Twf5rUVeU-I)
+
 #### Multi-Task Learning with curricula
 - Learning the Curriculum with Bayesian Optimization for Task-Specific Word Representation Learning. [Link](https://www.aclweb.org/anthology/P16-1013.pdf)
 - Learning a Multitask Curriculum for Neural Machine Translation. [Link](https://arxiv.org/pdf/1908.10940.pdf)
@@ -127,7 +132,6 @@ Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634c
 #### Reinforcement Learning and Curriculum
 - Object-Oriented Curriculum Generation for Reinforcement Learning [Link](http://ifaamas.org/Proceedings/aamas2018/pdfs/p1026.pdf)
 - Teacher-Student Curriculum Learning [Link](https://arxiv.org/abs/1707.00183)
-
 
 
 #### Tutorials, Surveys and Blogs
