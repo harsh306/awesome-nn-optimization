@@ -50,6 +50,7 @@
 - ENTROPY-SGD: BIASING GRADIENT DESCENT INTO WIDE VALLEYS [Link](https://arxiv.org/pdf/1611.01838.pdf)
 - NEIGHBOURHOOD DISTILLATION: ON THE BENEFITS OF NON END-TO-END DISTILLATION [Link](https://arxiv.org/abs/2010.01189)
 - LEARNING TO EXECUTE [Link](https://arxiv.org/pdf/1410.4615.pdf)
+- Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing [Link](https://arxiv.org/pdf/1903.10145.pdf)
 
 #### On Loss Surfaces and Generalization of Deep Neural Networks
 - Exact solutions to the nonlinear dynamics of learning in deep linear neural networks [Link](https://arxiv.org/abs/1312.6120)
