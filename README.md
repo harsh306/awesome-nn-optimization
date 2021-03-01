@@ -140,6 +140,7 @@ Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634c
 
 
 #### Tutorials, Surveys and Blogs
+- Curriculum Learning: A Survey [Link](https://arxiv.org/pdf/2101.10382.pdf)
 - https://www.offconvex.org/ 
 - An overview of gradient descent optimization algorithms [[Link]](https://arxiv.org/pdf/1609.04747.pdf)
 - Why Momentum really works?[[Blog]](https://distill.pub/2017/momentum/)
