@@ -52,7 +52,8 @@
 - NEIGHBOURHOOD DISTILLATION: ON THE BENEFITS OF NON END-TO-END DISTILLATION [Link](https://arxiv.org/abs/2010.01189)
 - LEARNING TO EXECUTE [Link](https://arxiv.org/pdf/1410.4615.pdf)
 - Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing [Link](https://arxiv.org/pdf/1903.10145.pdf)
-- - Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum [Link](https://proceedings.neurips.cc/paper/2019/file/926ffc0ca56636b9e73c565cf994ea5a-Paper.pdf)
+- Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum [Link](https://proceedings.neurips.cc/paper/2019/file/926ffc0ca56636b9e73c565cf994ea5a-Paper.pdf)
+- Breaking the Curse of Space Explosion: Towards Effcient NAS with Curriculum Search [Link](http://proceedings.mlr.press/v119/guo20b.html)
 
 
 #### On Loss Surfaces and Generalization of Deep Neural Networks
