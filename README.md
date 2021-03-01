@@ -52,6 +52,8 @@
 - NEIGHBOURHOOD DISTILLATION: ON THE BENEFITS OF NON END-TO-END DISTILLATION [Link](https://arxiv.org/abs/2010.01189)
 - LEARNING TO EXECUTE [Link](https://arxiv.org/pdf/1410.4615.pdf)
 - Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing [Link](https://arxiv.org/pdf/1903.10145.pdf)
+- - Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum [Link](https://proceedings.neurips.cc/paper/2019/file/926ffc0ca56636b9e73c565cf994ea5a-Paper.pdf)
+
 
 #### On Loss Surfaces and Generalization of Deep Neural Networks
 - Exact solutions to the nonlinear dynamics of learning in deep linear neural networks [Link](https://arxiv.org/abs/1312.6120)
@@ -65,7 +67,6 @@ networks.[[Link]](http://papers.nips.cc/paper/6844-how-regularization-affects-th
 - Necessary and Sufficient Geometries for Gradient Methods [Link](http://papers.nips.cc/paper/9325-necessary-and-sufficient-geometries-for-gradient-methods)
 - Fine-grained Optimization of Deep Neural Networks [Link](http://papers.nips.cc/paper/8425-fine-grained-optimization-of-deep-neural-networks)
 - SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS [Link](https://openreview.net/pdf?id=PxTIG12RRHS)
-- Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum [Link](https://proceedings.neurips.cc/paper/2019/file/926ffc0ca56636b9e73c565cf994ea5a-Paper.pdf)
 
 #### Dynamics, Bifurcations and  RNNs difficulty to train
 - Deep Equilibrium Models [Link](http://papers.nips.cc/paper/8358-deep-equilibrium-models.pdf)
