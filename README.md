@@ -54,6 +54,7 @@
 - Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing [Link](https://arxiv.org/pdf/1903.10145.pdf)
 - Data Parameters: A New Family of Parameters for Learning a Differentiable Curriculum [Link](https://proceedings.neurips.cc/paper/2019/file/926ffc0ca56636b9e73c565cf994ea5a-Paper.pdf)
 - Breaking the Curse of Space Explosion: Towards Effcient NAS with Curriculum Search [Link](http://proceedings.mlr.press/v119/guo20b.html)
+- Continuation Methods and Curriculum Learning for Learning to Rank [Link](http://www.dei.unipd.it/~ferro/papers/2018/CIKM2018_FLMP.pdf)
 
 
 #### On Loss Surfaces and Generalization of Deep Neural Networks
@@ -141,6 +142,7 @@ Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634c
 
 #### Tutorials, Surveys and Blogs
 - Curriculum Learning: A Survey [Link](https://arxiv.org/pdf/2101.10382.pdf)
+- A Comprehensive Survey on Curriculum Learning [Link](https://arxiv.org/pdf/2010.13166.pdf)
 - https://www.offconvex.org/ 
 - An overview of gradient descent optimization algorithms [[Link]](https://arxiv.org/pdf/1609.04747.pdf)
 - Why Momentum really works?[[Blog]](https://distill.pub/2017/momentum/)
