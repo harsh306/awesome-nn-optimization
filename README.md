@@ -102,6 +102,11 @@ Local Minima [Link](https://papers.nips.cc/paper/7688-adding-one-neuron-can-elim
 - Asymmetric Valleys: Beyond Sharp and Flat Local
 Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634ccfa0e-Paper.pdf)
 - A Reparameterization-Invariant Flatness Measure for Deep Neural Networks [Link](https://arxiv.org/pdf/1912.00058.pdf)
+- A Simple Weight Decay Can Improve Generalization [Link](https://papers.nips.cc/paper/1991/file/8eefcfdf5990e441f0fb6f3fad709e21-Paper.pdf)
+- Finding Critical and Gradient-Flat Points of Deep Neural Network Loss Functions [Link](https://escholarship.org/content/qt4fw6x5b3/qt4fw6x5b3_noSplash_14ef3ae1644808c863f9b2eb344addcc.pdf?t=qhtt5i)
+- The Loss Surface Of Deep Linear Networks Viewed Through The Algebraic Geometry Lens [Link](https://arxiv.org/pdf/1810.07716.pdf)
+- Theoretical Issues in Deep Networks: Approximation, Optimization and Generalization [Link](https://arxiv.org/pdf/1908.09375.pdf)
+- Flatness is a False Friend [Link](https://arxiv.org/pdf/2006.09091.pdf)
 
 #### Initialization of Neural Network
 - Deep learning course notes [Link](https://www.deeplearning.ai/ai-notes/initialization/)
