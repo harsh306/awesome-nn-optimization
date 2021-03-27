@@ -115,6 +115,8 @@ Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634c
 - THE EARLY PHASE OF NEURAL NETWORK TRAINING [Link](https://research.fb.com/wp-content/uploads/2020/02/The-Early-Phase-of-Neural-Network-Training.pdf?)
 - One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers [Link](http://papers.nips.cc/paper/8739-one-ticket-to-win-them-all-generalizing-lottery-ticket-initializations-across-datasets-and-optimizers.pdf)
 - PCA-Initialized Deep Neural Networks Applied To Document Image Analysis [Link](https://arxiv.org/abs/1702.00177)
+- Understanding the difficulty of training deep feedforward neural networks [Link](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf?hc_location=ufi])
+- Unitary Evolution of RNNs [Link](https://arxiv.org/abs/1511.06464)
 
 #### Degeneracy of Neural Networks
 - Exact solutions to the nonlinear dynamics of learning in deep linear neural networks [Link](https://arxiv.org/pdf/1312.6120.pdf)
