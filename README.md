@@ -127,6 +127,7 @@ Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634c
 - Theory of Deep Learning III: explaining the non-overfitting puzzle [Link](https://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-073v2_0.pdf)
 - Provable Benefit of Orthogonal Initialization in Optimizing Deep Linear Networks [Link](https://openreview.net/forum?id=rkgqN1SYvr)
 - Understanding Deep Learning: Expected Spanning Dimension and Controlling the Flexibility of Neural Networks [Link](https://www.frontiersin.org/articles/10.3389/fams.2020.572539/full)
+- The Loss Surface Of Deep Linear Networks Viewed Through The Algebraic Geometry Lens [Link](https://arxiv.org/pdf/1810.07716.pdf)
 
 #### Convergencec Analysis in Deep Learning
 - A CONVERGENCE ANALYSIS OF GRADIENT DESCENT FOR DEEP LINEAR NEURAL NETWORKS [Link](https://openreview.net/pdf?id=SkMQg3C5K7)
