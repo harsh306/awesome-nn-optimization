@@ -107,6 +107,7 @@ Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634c
 - The Loss Surface Of Deep Linear Networks Viewed Through The Algebraic Geometry Lens [Link](https://arxiv.org/pdf/1810.07716.pdf)
 - Theoretical Issues in Deep Networks: Approximation, Optimization and Generalization [Link](https://arxiv.org/pdf/1908.09375.pdf)
 - Flatness is a False Friend [Link](https://arxiv.org/pdf/2006.09091.pdf)
+- Are_Saddles_Good_Enough_for_Deep_Learning [Link](https://www.researchgate.net/publication/317399405_Are_Saddles_Good_Enough_for_Deep_Learning)
 
 #### Initialization of Neural Network
 - Deep learning course notes [Link](https://www.deeplearning.ai/ai-notes/initialization/)
