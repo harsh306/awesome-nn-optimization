@@ -119,6 +119,13 @@ Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634c
 - Understanding the difficulty of training deep feedforward neural networks [Link](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf?hc_location=ufi])
 - Unitary Evolution of RNNs [Link](https://arxiv.org/abs/1511.06464)
 
+#### Batch size Optimiation 
+- ON LARGE-BATCH TRAINING FOR DEEP LEARNING: GENERALIZATION GAP AND SHARP MINIMA[Link](https://arxiv.org/pdf/1609.04836.pdf)
+- Revisiting Small Batch Training for Deep Neural Networks [Link](https://arxiv.org/abs/1804.07612)
+- LARGE BATCH TRAINING OF CONVOLUTIONAL NETWORKS [Link](https://arxiv.org/pdf/1708.03888.pdf)
+- Large Batch Optimization for Deep Learning: Training BERT in 76 minutes [Link](https://arxiv.org/abs/1904.00962)
+- DON’T DECAY THE LEARNING RATE, INCREASE THE BATCH SIZE [Link](https://arxiv.org/abs/1711.00489)
+
 #### Degeneracy of Neural Networks
 - Exact solutions to the nonlinear dynamics of learning in deep linear neural networks [Link](https://arxiv.org/pdf/1312.6120.pdf)
 - Avoiding pathologies in very deep networks [Link](https://arxiv.org/abs/1402.5836)
