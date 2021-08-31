@@ -162,6 +162,7 @@ Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634c
 - https://www.offconvex.org/ 
 - An overview of gradient descent optimization algorithms [[Link]](https://arxiv.org/pdf/1609.04747.pdf)
 - Review of second-order optimization techniques in artificial neural networks backpropagation [Link](https://iopscience.iop.org/article/10.1088/1757-899X/495/1/012003/pdf#:~:text=Second%2Dorder%20optimization%20technique%20is,training%20phase%20of%20neural%20network.)
+- Linear Algebra and data [Link](https://github.com/harsh306/ML_Notes/blob/master/linear_algebra.md)
 - Why Momentum really works?[[Blog]](https://distill.pub/2017/momentum/)
 - Optimization [[Book]](https://www.deeplearningbook.org/contents/optimization.html)
 - Optimization for deep learning: theory and algorithms [Link](https://arxiv.org/pdf/1912.08957.pdf)
