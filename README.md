@@ -9,6 +9,7 @@
 - AdaBound [[Link]](https://arxiv.org/abs/1902.09843) [[Github]](https://github.com/Luolc/AdaBound)
 - ADAMAX [[Link]](https://arxiv.org/abs/1412.6980)
 - NADAM [[Link]](https://openreview.net/pdf?id=OM0jvwB8jIp57ZJjtNEZ)
+- All optimizers list [Awesome-Optimizer](https://github.com/zoq/Awesome-Optimizer)
 
 #### Normalization Methods
 - BatchNorm [[Link]](https://arxiv.org/abs/1502.03167)
@@ -118,6 +119,11 @@ Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634c
 - PCA-Initialized Deep Neural Networks Applied To Document Image Analysis [Link](https://arxiv.org/abs/1702.00177)
 - Understanding the difficulty of training deep feedforward neural networks [Link](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf?hc_location=ufi])
 - Unitary Evolution of RNNs [Link](https://arxiv.org/abs/1511.06464)
+
+#### Momentum in Optimization
+- RETHINKING THE HYPERPARAMETERS FOR FINE-TUNING [Link](https://openreview.net/pdf?id=B1g8VkHFPH)
+- Momentum Residual Neural Networks [Link](https://proceedings.mlr.press/v139/sander21a.html)
+- Smooth momentum: improving lipschitzness in gradient descent [Link](https://doi.org/10.1007/s10489-022-04207-7)
 
 #### Batch size Optimiation 
 - ON LARGE-BATCH TRAINING FOR DEEP LEARNING: GENERALIZATION GAP AND SHARP MINIMA[Link](https://arxiv.org/pdf/1609.04836.pdf)
