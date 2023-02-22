@@ -124,6 +124,8 @@ Minima [Link](https://papers.nips.cc/paper/2019/file/01d8bae291b1e4724443375634c
 - RETHINKING THE HYPERPARAMETERS FOR FINE-TUNING [Link](https://openreview.net/pdf?id=B1g8VkHFPH)
 - Momentum Residual Neural Networks [Link](https://proceedings.mlr.press/v139/sander21a.html)
 - Smooth momentum: improving lipschitzness in gradient descent [Link](https://doi.org/10.1007/s10489-022-04207-7)
+- Momentum-based Weight Interpolation of Strong
+Zero-Shot Models for Continual Learning [link](https://arxiv.org/pdf/2211.03186.pdf)
 
 #### Batch size Optimiation 
 - ON LARGE-BATCH TRAINING FOR DEEP LEARNING: GENERALIZATION GAP AND SHARP MINIMA[Link](https://arxiv.org/pdf/1609.04836.pdf)
