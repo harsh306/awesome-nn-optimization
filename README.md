@@ -9,6 +9,7 @@
 - AdaBound [[Link]](https://arxiv.org/abs/1902.09843) [[Github]](https://github.com/Luolc/AdaBound)
 - ADAMAX [[Link]](https://arxiv.org/abs/1412.6980)
 - NADAM [[Link]](https://openreview.net/pdf?id=OM0jvwB8jIp57ZJjtNEZ)
+- ADAMW [[Link]](https://openreview.net/forum?id=rk6qdGgCZ)
 - All optimizers list [Awesome-Optimizer](https://github.com/zoq/Awesome-Optimizer)
 
 #### Normalization Methods
