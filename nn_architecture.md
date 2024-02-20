@@ -9,6 +9,7 @@
 5. Progressive Neural Network [paper](https://arxiv.org/pdf/1606.04671.pdf)
 6. Non-Parametric Neural Network [paper](https://openreview.net/pdf?id=BJK3Xasel)
 7. LEARNING TO GROW PRETRAINED MODELS FOR EFFICIENT TRANSFORMER TRAINING [paper](https://openreview.net/pdf?id=cDYRS5iZ16f)
+8. Progressive Growing of GANs [paper](https://arxiv.org/pdf/1710.10196.pdf)
 
 
 ### Course on Continual Learning
