@@ -10,6 +10,7 @@
 - ADAMAX [[Link]](https://arxiv.org/abs/1412.6980)
 - NADAM [[Link]](https://openreview.net/pdf?id=OM0jvwB8jIp57ZJjtNEZ)
 - ADAMW [[Link]](https://openreview.net/forum?id=rk6qdGgCZ)
+- AdaLOMO [Link](https://arxiv.org/pdf/2310.10195.pdf)
 - All optimizers list [Awesome-Optimizer](https://github.com/zoq/Awesome-Optimizer)
 
 #### Normalization Methods
