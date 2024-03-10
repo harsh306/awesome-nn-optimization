@@ -12,5 +12,19 @@
 8. Progressive Growing of GANs [paper](https://arxiv.org/pdf/1710.10196.pdf)
 
 
+### Modular Growing or PEFT
+1. LORA
+2. Adapters
+3. QLora
+4. Laser
+5. DDPM
+
+### Recurrence vs. deep neural networks
+1. RWKV
+2. SSMs
+3. Mamba
+4. Recurrent Interface Networks
+
+   
 ### Course on Continual Learning
 1. https://owll-lab.com/teaching/cl_lecture/
